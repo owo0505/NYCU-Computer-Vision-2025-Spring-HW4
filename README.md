@@ -37,6 +37,7 @@ python split.py
 ```
 This will generate /path/to/hw4_split/ containing:
 
+```
 hw4_split/
  ├─ train/
  │  ├─ degraded/
@@ -47,6 +48,7 @@ hw4_split/
  │  └─ clean/
  │
  └─ split.json
+```
 
 ### 3. Train from Scratch
 ```bash
